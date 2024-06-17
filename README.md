@@ -1,4 +1,4 @@
-# foodie-
+# foodie
 Welcome to Foodie, your ultimate destination for all things culinary! Whether you're a seasoned chef, a passionate home cook, or simply a food lover, Foodie is designed to inspire, guide, and tantalize your taste buds. Our website features a vast collection of recipes from around the world, catering to every palate. From quick and easy meals to gourmet dishes, each recipe comes with detailed instructions, ingredient lists, and beautiful photos to make your cooking experience enjoyable and successful.
 
 Foodie is more than just a recipe hub; it’s a learning platform. Enhance your cooking skills with our expert tips and tricks, designed to help you perfect your favorite dishes and discover new techniques. Our sleek and modern design, built with HTML, CSS, and JavaScript, ensures a seamless and enjoyable browsing experience, allowing you to easily navigate through our categories and find exactly what you're looking for.
