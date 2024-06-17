@@ -10,3 +10,10 @@ At Foodie, we believe in promoting healthy eating. Discover a range of nutritiou
 Stay up-to-date with the latest recipes, cooking tips, and Foodie news by subscribing to our newsletter. Get delicious content delivered straight to your inbox, ensuring you never miss out on the latest culinary trends.
 
 Choose Foodie for a comprehensive recipe database, user-friendly design, and a vibrant community of food enthusiasts. Our site is regularly updated with new recipes, articles, and features to keep your culinary journey exciting and fresh. Join us today and embark on a culinary adventure that will elevate your cooking and inspire your taste buds.
+# Screenshots
+![Screenshot (93)](https://github.com/BishwanathKumarPanda/foodie-/assets/138992024/366ed493-c77b-4214-a734-a72fb2a539e6)
+![Screenshot (94)](https://github.com/BishwanathKumarPanda/foodie-/assets/138992024/0c64e1ee-1506-4b6a-ad85-70cef0061866)
+![Screenshot (95)](https://github.com/BishwanathKumarPanda/foodie-/assets/138992024/993d121d-f04b-4ac5-bb29-3aca743b2a23)
+![Screenshot (96)](https://github.com/BishwanathKumarPanda/foodie-/assets/138992024/2d49b932-5c44-4c90-a700-b3bb24aee18a)
+![Screenshot (98)](https://github.com/BishwanathKumarPanda/foodie-/assets/138992024/6831314e-4d56-4207-9f47-5ca92a48f883)
+
